@@ -135,3 +135,7 @@ src/__init__.py
 
 # plots folder
 plots/*
+script/dask-worker-space/global.lock
+script/dask-worker-space/worker-ipum1zvc.dirlock
+script/dask-worker-space/purge.lock
+script/dask-worker-space/worker-u1e4tw3x.dirlock
