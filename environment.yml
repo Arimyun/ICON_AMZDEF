@@ -1,0 +1,11 @@
+name: icon_amazon
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - python>=3.9
+    - pytest
+    - sphinx
+    - xarray
+    - dask
+    - pandas
